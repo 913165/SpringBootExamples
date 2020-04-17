@@ -1,4 +1,4 @@
-# The project describes the spring boot apache ignite with simeple cache with test rest endpoint
+# The project describes the spring boot apache ignite with simple cache with test rest endpoint
 
 # Getting Started
 
